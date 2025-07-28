@@ -1,1 +1,3 @@
-# stikarmichal.cz
+# Personal Website
+
+https://www.stikarmichal.cz
